@@ -8,7 +8,7 @@
 ### I have technical skills and interest in:
 * Deep Learning
 * Machine Learning
-* Computer vision 
+* Computer vision
 * Natural Language Processing
 * Data Analysis
 * MLOps
