@@ -10,10 +10,11 @@
 * Machine Learning
 * Computer vision 
 * Natural Language Processing
+* Data Analysis
 * MLOps
 * Generative AI 
-* Data Analysis
 
+👉[My Online Portfolio](https://www.datascienceportfol.io/narendrapithani)
 
 
 ## 🌐 Socials:
