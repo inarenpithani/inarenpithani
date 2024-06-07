@@ -33,7 +33,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_inaren/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inarendrapithani/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/ipithani) 
 
 <!--
- -->
+ 
 
 ---
  ## 💰 You can help me by Donating
@@ -55,9 +55,18 @@
 ![](https://github-contributor-stats.vercel.app/api?username=butpizz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://rm.up.railway.app/" width="512px"/> -->
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@Narenpithani) 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=inarenpithani&label=Profile%20views&color=0e75b6&style=flat" alt="inarenpithani" /> </p>
 
+# 📊 GitHub Stats :
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inarenpithani&show_icons=true&locale=en&layout=compact" alt="inarenpithani" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inarenpithani&show_icons=true&locale=en" alt="inarenpithani" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inarenpithani&" alt="inarenpithani" /></p>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
